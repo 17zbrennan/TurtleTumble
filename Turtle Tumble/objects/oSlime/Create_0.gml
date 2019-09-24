@@ -1,0 +1,12 @@
+versp = 0;
+grav = .25;
+scoochsp = 2;
+hrsp = scoochsp;
+iFrameSlime = 0;
+hp = 2
+global.arrowDestroy = false;
+area = 240;
+iF = 30;
+//fl = 0;
+//hitf = 0;
+jumptime = 240;

@@ -1,0 +1,10 @@
+timeJPack = 120;
+timeRFire = 120;
+global.right = true;
+global.left = false;
+global.jPack = false;
+global.rFire = false; 
+global.jump = false;
+global.hp = 10;
+global.hpPickUp = false;
+global.healthIndex = 0
